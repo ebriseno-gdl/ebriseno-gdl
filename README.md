@@ -47,10 +47,10 @@ Collection of algorithm & data-structure solutions and tests.
 *(Source code private due to NDAs; architectures highlighted)* 
 - **Microservices Migration (HCL-IGT):** *(partipaction as programmer in part of the project)* Legacy communication layer refactored into RabbitMQ/Docker-based distributed system (C++, C#) 
 - **MDD-Tool (HCL-IGT):** Optimized performance of a critical legacy window application, cutting transaction latency and boosting stability, while implementing new features to extend functionality. (C#, XML, XAML, .Net)
-- **SAP TRM Calc-RFN Framework:** Architecture and implementation of valuation models, financial and commodities instruments, and IFRS reporting framework within SAP TRM (ABAP, VBA)
-- **SIDI – Embedded Derivatives System:** End-to-end design and implementation of a system for identification and management of embedded derivatives in complex contracts (ASPX, VB.NET, C#, Oracle, VBA) 
-- **V@R Portfolio Valuation Engine:** Development of a valuation and risk system for debt and derivatives portfolios (C++, VB6, Matlab, Oracle, VBA) 
-- **Infinity Trading Platform Extensions:** Design and development of custom trading and valuation components for derivatives and commodities (C++, VB6, Oracle) 
+- **SAP TRM Calc-RFN Framework (PEMEX):** Architecture and implementation of valuation models, financial and commodities instruments, and IFRS reporting framework within SAP TRM (ABAP, VBA, Word, Excel)
+- **SIDI – Embedded Derivatives System (PEMEX):** End-to-end design and implementation of a system for identification and management of embedded derivatives in complex contracts (ASPX, VB.NET, C#, Oracle, VBA) 
+- **V@R Portfolio Valuation Engine (PEMEX):** Development of a valuation and risk system for debt and derivatives portfolios (C++, VB6, Matlab, Oracle, VBA) 
+- **Infinity Trading Platform Extensions (PEMEX):** Design and development of custom trading and valuation components for derivatives and commodities (C++, VB6, Oracle) 
 
 ---
 
@@ -62,19 +62,19 @@ Collection of algorithm & data-structure solutions and tests.
 ---
 
 ## 🧩 Personal & Academic Projects
-*(Independent systems, academic Excel/VBA Automation Tools, and past solutions developed outside corporate NDAs)*
+*(Independent and academic systems, Excel/VBA Automation Tools, and past solutions developed outside corporate NDAs)*
 
-- **M.Sc. Thesis Project:** Designed and implemented a compiler and mathematical modeling framework as part of advanced computer science research.  
-- **B.Sc. Thesis Project:** Built an embedded communications system integrating hardware and software for real‑time data processing.  
-- **Custom Solutions (sold in the past):**  
-  - **BodegaSoft POS:** Developed and commercialized a point‑of‑sale solution for small businesses *(also planned for GitHub)*.  
+- **M.Sc. Thesis Project:** Implementation of a Builder of Counter-Examples from a corrective predicate P(X) of a faulty conjecture G(X). (SICStus Prolog and using clp(FD) library) 
+- **B.Sc. Thesis Project:** An Interactive Calculus Environment over Unix Operative System, designed and implemented as an interpreter, it worked like a programmable mathematical calculator.(C, Unix, Yacc)  
+- **Custom Solutions (some of them sold in the past and others are independent and academic projects):**  
+  - **BodegaSoft POS:** Developed and commercialized a point‑of‑sale solution for small businesses *(also planned for GitHub)*. (VB.NET, C#, Microsoft Access)  
   - **Excel/VBA Automation Tools:** Created CRM‑like systems for reporting, validation, and workflow automation *(also planned for GitHub release as **Excel/VBA-Projects/Tools**)*.   
 
-*(Note: These projects were successfully delivered and used, but are no longer maintained or in active use.)*
+*(Note: Some of these projects were successfully delivered and used, but are no longer maintained or in active use.)*
 
 ---
 
 ## 📌 Availability
-Currently available for remote national and international full‑time or contract engagements (B2B / Corp‑to‑Corp / W‑8BEN).  
-Fully aligned with US CST/EST time zones for seamless collaboration.  
-Holder of an active US B1/B2 Visa, enabling on‑site architectural alignments, project kick‑offs, or critical deployments when required.
+- Currently available for remote national and international full‑time or contract engagements (B2B / Corp‑to‑Corp / W‑8BEN).  
+- Fully aligned with US CST/EST time zones for seamless collaboration.  
+- Holder of an active US B1/B2 Visa, enabling on‑site architectural alignments, project kick‑offs, or critical deployments when required.
