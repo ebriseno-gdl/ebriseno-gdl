@@ -48,9 +48,15 @@ Collection of algorithm & data-structure solutions and tests.
 - **Microservices Migration (HCL-IGT):** *(partipaction as programmer in part of the project)* Legacy communication layer refactored into RabbitMQ/Docker-based distributed system (C++, C#) 
 - **MDD-Tool (HCL-IGT):** Optimized performance of a critical legacy window application, cutting transaction latency and boosting stability, while implementing new features to extend functionality. (C#, XML, XAML, .Net)
 - **SAP TRM Calc-RFN Framework (PEMEX):** Architecture and implementation of valuation models, financial and commodities instruments, and IFRS reporting framework within SAP TRM (ABAP, VBA, Word, Excel)
-- **SIDI – Embedded Derivatives System (PEMEX):** End-to-end design and implementation of a system for identification and management of embedded derivatives in complex contracts (ASPX, VB.NET, C#, Oracle, VBA) 
-- **V@R Portfolio Valuation Engine (PEMEX):** Development of a valuation and risk system for debt and derivatives portfolios (C++, VB6, Matlab, Oracle, VBA) 
-- **Infinity Trading Platform Extensions (PEMEX):** Design and development of custom trading and valuation components for derivatives and commodities (C++, VB6, Oracle) 
+- **SIDI – Embedded Derivatives System (PEMEX):** Web and desktop applications for identification and management of embedded derivatives in complex contracts (ASPX, VB.NET, C#, Oracle, VBA) 
+- **e-Master Invoice Tool (PEMEX):** Excel/VBA tool that allows capturing, validating, printing and formatting Electronic Master Invoices requested by EXIM Bank of US for PEMEX trades warranted by this US Agency, as well as generating databases related to them.
+- **V@R Portfolio Valuation Engine (PEMEX):** Development of a valuation and risk system for debt and derivatives portfolios (VB6, VBA, C++, Matlab, Excel, Oracle) 
+- **Infinity Trading Platform Extensions (PEMEX):** Design and development of custom trading and valuation systems, modules and components for derivatives and commodities (C++, VB6, Oracle) 
+- **Model-Tool (PEMEX):** Custom modeling application (Engine, GUI, Dataset) for building and running mathematical models; standalone or COM component. (C++, VB6, Oracle) 
+- **PEMEX Superavit:** Financial balance-sheet simulator for PEMEX and subsidiaries with scenario testing and statistical output; built with Model-Tool and linked to Infinity Trading Platform Extensions.
+- **SID - Sistema de Información de la Deuda de PEMEX:** Debt management and reporting system used 1990–2014 (retained for historical reports). (PowerBuilder, VB6, Unix shell, C, SQL/PLSQL, Oracle)
+- **Formulas Interpreter of a PEMEX Payroll System:** Formulas were modified by the user, saved in an Informix Database and parsed and executed on the fly by the interpreter (C, Informix)
+- **Small Applications for Administration of PEMEX Construction Project:**  Contracts Manager, Budget and Construction Equipment Control (C, Unix Shell, SQL, Oracle Tools, Oracle)
 
 ---
 
@@ -67,10 +73,10 @@ Collection of algorithm & data-structure solutions and tests.
 - **M.Sc. Thesis Project:** Implementation of a Builder of Counter-Examples from a corrective predicate P(X) of a faulty conjecture G(X). (SICStus Prolog and using clp(FD) library) 
 - **B.Sc. Thesis Project:** An Interactive Calculus Environment over Unix Operative System, designed and implemented as an interpreter, it worked like a programmable mathematical calculator.(C, Unix, Yacc)  
 - **Custom Solutions (some of them sold in the past and others are independent and academic projects):**  
-  - **BodegaSoft POS:** Developed and commercialized a point‑of‑sale solution for small businesses *(also planned for GitHub)*. (VB.NET, C#, Microsoft Access)  
-  - **Excel/VBA Automation Tools:** Created CRM‑like systems for reporting, validation, and workflow automation *(also planned for GitHub release as **Excel/VBA-Projects/Tools**)*.   
-
-*(Note: Some of these projects were successfully delivered and used, but are no longer maintained or in active use.)*
+  - **BodegaSoft POS:** Developed and commercialized a point‑of‑sale and supporting framework *(also planned for GitHub)*. (VB.NET, C#, Microsoft Access)  
+  - **Excel/VBA Automation Tools:** Advanced Excel/VBA automation tools and CRM-like systems for reporting, validation, and workflow automation *(also planned for GitHub)*.   
+  - **Football Player Agent for RoboCup (M.Sc. Project):** Agent for playing football using a simulator called RoboCup Soccer. This player is a reactive agent using Subsumption architecture (behavior is programmed in tiers), it is based on a Framework called UvA TriLearn, which provides basic mechanisms (sensorial and geometric process). The agent is coded in C++ language and the Simulator used runs over Linux.   
+  - **Application for Entailment of Market Indexes Prices (M.Sc. Project):** Calculates correlation between indexes in order to define causal relations between them and they are represented by a Bayesian network. The application is divided in 3 tiers: Database, Model (COM Component) and GUI. (C++ and NAG and Hugin Libraries).
 
 ---
 
