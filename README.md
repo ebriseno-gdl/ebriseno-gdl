@@ -7,7 +7,7 @@
 
 ## 🛠 Core Technical Focus
 - **Languages & Frameworks:** C++, C#, VB.NET, VBA, ABAP, SQL, PL/SQL, .Net Core, .Net framework  
-- **Domains:** Financial Engineering (Derivatives Pricing, Risk Metrics, Treasury/SAP TRM), Windows Embedded Systems  
+- **Domains:** Financial Engineering (Derivatives Pricing, Risk Metrics, Treasury/SAP TRM), Windows Embedded Systems, Compiler & Interpreter Design, Mathematical Modeling 
 - **Methodologies:** Object-Oriented Design, Mathematical Modeling, Compiler & Interpreter Design, Legacy System Modernization  
 - **Developer Productivity:** Agile/Scrum, Git/Jenkins, AI-Assisted Development (GitHub Copilot, Visual Studio)   
 - **Current Focus:** Expanding expertise in Microservices & AI-Assisted Development for modern distributed systems and intelligent tooling
@@ -40,14 +40,14 @@
 
 ## 🏛 Selected Professional Systems
 *(Source code private due to NDAs; architectures highlighted)* 
-- **Microservices Migration (HCL-IGT):** *(partipaction as programmer in part of the project)* Legacy communication layer refactored into RabbitMQ/Docker-based distributed system (C++, C#) 
+- **Microservices Migration (HCL-IGT):** *(partipaction as programmer in part of the project)* Legacy communication layer refactored into RabbitMQ/Docker-based distributed system (C++, C#).
 - **MDD-Tool (HCL-IGT):** Optimized performance of a critical legacy window application, cutting transaction latency and boosting stability, while implementing new features to extend functionality. (C#, XML, XAML, .Net)
-- **SAP TRM Calc-RFN and Framework (PEMEX):** Architecture and implementation of valuation models for financial and commodities instruments (including configuration and structuring), with integrated IFRS/SEC/custom reporting, built on a robust framework leveraging SAP TRM. (ABAP, VBA, Word, and Excel).
+- **SAP TRM Calc-RFN and Framework (PEMEX):** Architecture and implementation of valuation models for financial and commodities instruments (including configuration and structuring), with integrated IFRS/SEC/custom reporting, built on a robust framework leveraging SAP TRM. (ABAP, VBA, Word, and Excel). Includes the official Calc‑RFN presentation delivered at SAP Forum Mexico 2016, with slides on architecture, valuation models, and IFRS risk reporting [(Spanish Version)](https://github.com/ebriseno-gdl/ebriseno-gdl/blob/5ac995ab4fa9361b81cc83c5020cc5ebb0d223a4/Calc-RFN_SapForum2016_Presentation_SpanishOrigVersion.pdf).
 - **SIDI – Embedded Derivatives System (PEMEX):** Web and desktop applications for identification and management of embedded derivatives in complex contracts (ASPX, VB.NET, C#, Oracle, VBA) , all based in a Framework built on top of SAP TRM and integrated with it. (ABAP, VBA, Word, Excel)
 - **e-Master Invoice Tool (PEMEX):** Excel/VBA tool that allows capturing, validating, printing and formatting Electronic Master Invoices requested by EXIM Bank of US for PEMEX trades warranted by this US Agency, as well as generating databases related to them.
 - **V@R Portfolio Valuation Engine (PEMEX):** Development of a valuation and risk system for debt and derivatives portfolios (VB6, VBA, C++, Matlab, Excel, Oracle) 
 - **Infinity Trading Platform Extensions (PEMEX):** Design and development of custom trading and valuation systems, modules and components for derivatives and commodities (C++, VB6, Oracle) 
-- **Model-Tool (PEMEX):** Custom modeling application (Engine, GUI, Dataset) for building and running mathematical models; standalone or COM component. (C++, VB6, Oracle) 
+- **Model-Tool (PEMEX):** Custom modeling application (Engine, GUI, Dataset) for building and running mathematical models; standalone or COM component. (C++, VB6, Oracle) . Includes an overview document with screenshots and a brief explanation of Model-Tool functionality [(Spanish Version)](https://github.com/ebriseno-gdl/ebriseno-gdl/blob/5ac995ab4fa9361b81cc83c5020cc5ebb0d223a4/EBR-ModelTool-Overview_SpanishVersion.pdf).
 - **PEMEX Superavit:** Financial balance-sheet simulator for PEMEX and subsidiaries with scenario testing and statistical output; built with Model-Tool and linked to Infinity Trading Platform Extensions.
 - **SID - Sistema de Información de la Deuda de PEMEX:** Debt management and reporting system used 1990–2014 (retained for historical reports). (PowerBuilder, VB6, Unix shell, C, SQL/PLSQL, Oracle)
 - **Formulas Interpreter of a PEMEX Payroll System:** Formulas were modified by the user, saved in an Informix Database and parsed and executed on the fly by the interpreter (C, Informix)
