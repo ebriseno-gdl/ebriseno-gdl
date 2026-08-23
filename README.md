@@ -32,7 +32,7 @@
 ---
 
 ## 🎤 Professional Highlights
-- Speaker, **SAP Forum Mexico 2016** — “Automation of Financial Risk Methodologies in PEMEX using SAP TRM”  
+- Speaker, **SAP Forum Mexico 2016** — “Automation of Financial Risk Methodologies in PEMEX through SAP TRM”  
 - Architect & Principal Programmer of trading, valuation, and risk management systems at **PEMEX** *(Jul 1979 - Sep 2020)*
 - Senior Software Developer at **HCLTech (IGT Gaming)** *(Sep 2021 - May 2026)*
 
@@ -42,7 +42,7 @@
 *(Source code private due to NDAs; architectures highlighted)* 
 - **Microservices Migration (HCL-IGT):** *(partipaction as programmer in part of the project)* Legacy communication layer refactored into RabbitMQ/Docker-based distributed system (C++, C#).
 - **MDD-Tool (HCL-IGT):** Optimized performance of a critical legacy window application, cutting transaction latency and boosting stability, while implementing new features to extend functionality. (C#, XML, XAML, .Net)
-- **SAP TRM Calc-RFN and Framework (PEMEX):** Architecture and implementation of valuation models for financial and commodities instruments (including configuration and structuring), with integrated IFRS/SEC/custom reporting, built on a robust framework leveraging SAP TRM. (ABAP, VBA, Word, and Excel). Includes the official Calc‑RFN presentation delivered at SAP Forum Mexico 2016, with slides on architecture, valuation models, and IFRS risk reporting [(Spanish Version)](https://github.com/ebriseno-gdl/ebriseno-gdl/blob/5ac995ab4fa9361b81cc83c5020cc5ebb0d223a4/Calc-RFN_SapForum2016_Presentation_SpanishOrigVersion.pdf).
+- **SAP TRM Calc-RFN and Framework (PEMEX):** Architecture and implementation of valuation models for financial and commodities instruments (including configuration and structuring), with integrated IFRS/SEC/custom reporting, built on a robust framework leveraging SAP TRM. (ABAP, VBA, Word, and Excel). Includes the official Calc‑RFN presentation delivered at SAP Forum Mexico 2016, with slides on architecture, valuation models, and IFRS risk reporting [(Spanish Version)](https://github.com/ebriseno-gdl/ebriseno-gdl/blob/5ac995ab4fa9361b81cc83c5020cc5ebb0d223a4/Calc-RFN_SapForum2016_Presentation_SpanishOrigVersion.pdf) [(English Version)](https://github.com/ebriseno-gdl/ebriseno-gdl/blob/c3a90c6c52696595497541b94ea1c7613bf135c0/Calc-RFN_SapForum2016_Presentation_EnglishVersion.pdf).
 - **SIDI – Embedded Derivatives System (PEMEX):** Web and desktop applications for identification and management of embedded derivatives in complex contracts (ASPX, VB.NET, C#, Oracle, VBA) , all based in a Framework built on top of SAP TRM and integrated with it. (ABAP, VBA, Word, Excel)
 - **e-Master Invoice Tool (PEMEX):** Excel/VBA tool that allows capturing, validating, printing and formatting Electronic Master Invoices requested by EXIM Bank of US for PEMEX trades warranted by this US Agency, as well as generating databases related to them.
 - **V@R Portfolio Valuation Engine (PEMEX):** Development of a valuation and risk system for debt and derivatives portfolios (VB6, VBA, C++, Matlab, Excel, Oracle) 
