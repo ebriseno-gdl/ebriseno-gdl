@@ -16,16 +16,13 @@
 
 ## 📌 Pinned Projects
 - [**DSA**](https://github.com/ebriseno-gdl/DSA) → Algorithms & Data Structures (C#/.NET 10, C++ with NUnit & Google Test) — **regularly updated**
-- **CineSeriesCritics** *(planned to publish; currently in development)* → Web app for movie/TV critics (HTML/JS → C# web services → mobile app)
+- [**CineSeriesCritics**](https://github.com/ebriseno-gdl/CineSeriesCritics) *(Project with my son)* → Web app for movie/TV critics (HTML/JS → C# web services → mobile app (Android/iOS)) - **currently in development**
 - **Excel/VBA Automation Tools** *(planned to publish; built in the past)* → Advanced Excel/VBA automation tools and CRM-like systems
 - **BodegaSoft POS** *(planned to publish; built in the past)* → VB.NET & C# point-of-sale system and supporting framework.
 
 ---
 
 ## 🚀 Upcoming Projects
-- **CineSeriesCritics Web App:** *(planned to publish; currently in development)* 
-  - Current: HTML + JavaScript  
-  - Planned: Web services in C#, mobile app (Android/iOS)
 - **C++ Advanced Exercises:** *(for refreshing knowledgement)* 
   - Multithreading, memory management, latency optimization  
 
