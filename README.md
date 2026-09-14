@@ -17,7 +17,7 @@
 ## 📌 Pinned Projects
 - [**DSA**](https://github.com/ebriseno-gdl/DSA) → Algorithms & Data Structures (C#/.NET 10, C++ with NUnit & Google Test) — **regularly updated**
 - [**CineSeriesCritics**](https://github.com/ebriseno-gdl/CineSeriesCritics) *(Project with my son)* → Web app for movie/TV critics (HTML/JS → C# web services → mobile app (Android/iOS)) - **currently in development**
-- **Excel/VBA Automation Tools** *(planned to publish; built in the past)* → Advanced Excel/VBA automation tools and CRM-like systems
+- **Excel/VBA Automation Tools and Framework** *(planned to publish; built in the past)* → Advanced Excel/VBA automation tools and and general-purpose applications
 - **BodegaSoft POS** *(planned to publish; built in the past)* → VB.NET & C# point-of-sale system and supporting framework.
 
 ---
@@ -58,7 +58,7 @@
 - **M.Sc. Thesis Project:** Implementation of a Builder of Counter-Examples from a corrective predicate P(X) of a faulty conjecture G(X). (SICStus Prolog and using clp(FD) library) 
 - **B.Sc. Thesis Project:** An Interactive Calculus Environment over Unix Operative System, designed and implemented as an interpreter, it worked like a programmable mathematical calculator.(C, Unix, Yacc)  
 - **BodegaSoft POS:** Developed and commercialized a point‑of‑sale and supporting framework. Used in fruit and vegetable warehouses in Main Central Market of Mexico City. *(also planned for GitHub)*. (VB.NET, C#, Microsoft Access)  
-- **Excel/VBA Automation Tools:** Advanced Excel/VBA automation tools and CRM-like systems for reporting, validation, and workflow automation *(also planned for GitHub)*.   
+- **Excel/VBA Automation Tools:** Advanced Excel/VBA automation tools and general-purpose applications for log review, user management, valuation models, reporting frameworks, and workflow automation *(also planned for GitHub)*.   
 - **Football Player Agent for RoboCup (M.Sc. Project):** Agent for playing football using a simulator called RoboCup Soccer Server (RCSSServer). This player is a reactive agent using Subsumption architecture (behavior is programmed in tiers), it is based on a Framework called UvA TriLearn, which provides basic mechanisms (sensorial and geometric process). The agent is coded in C++ language and the Simulator used runs over Linux.   
 - **Application for Entailment of Market Indexes Prices (M.Sc. Project):** Calculates correlation between indexes in order to define causal relations between them and they are represented by a Bayesian network. The application is divided in 3 tiers: Database, Model (COM Component) and GUI. (C++ and NAG and Hugin Bayesian Networks Libraries).
 - **Learning Companions–COM System (M.Sc. Project):**  Intelligent Tutoring System (ITS); where besides the virtual tutor and the human student (user application) there are one or more virtual agents: Learning Companions (LCs). The role of LCs is to be peers for the human student participating in the real learning process. Tutor teaches Boolean algebra and assigns problems to students in order to be solved. The system is coded VB6 (the GUI), C++ language (COM agents/components), Prolog (Simplification Tool implemented by PhD. Jorge A. Ramírez Uresti in his LECOBA ITS, plus minimal extensions), information is saved on a Microsoft Access database.
